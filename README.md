@@ -1,4 +1,4 @@
-# NLP Portfolio *(*Traitement Automatique du Langage*)*
+# NLP Portfolio (Natural Language Processing) *(*Traitement Automatique du Langage*)*
 
 ## Overview *– Aperçu*
 
