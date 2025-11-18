@@ -4,7 +4,6 @@
 
 ### Project 1: Automatic medical description classification  (Classical Machine Learning Methods & Deep Learning)
 *Classification automatique de descriptions médicales*  
-Classical Machine Learning Methods & Deep Learning  
 **Data language:** French *– Français*
 
 ### Project 2: Semantic parsing: Abstract Meaning Representation (AMR)  
